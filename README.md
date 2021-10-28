@@ -2,3 +2,4 @@
 # Ángel Ramallo Benítez
 ## Graduado en Edificación por la Universidad de Granada
 ### Arquitecto técnico en Tabic Office of Architecture
+![concasco](concasco.png)
