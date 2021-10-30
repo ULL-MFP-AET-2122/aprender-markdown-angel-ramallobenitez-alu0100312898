@@ -27,3 +27,5 @@
 > Que el tiempo no dependa de las horas,
 > que solo nos apuren los latidos
                   (L. E. Aute, *"Acaso"*. ***Rito, 1973***)
+
+*Aute 'rules'* :ok_hand:
