@@ -5,7 +5,7 @@
 
 <img src="concasco.png" width=150 height=200>
 
-*Consulta mi perfil profesional en* [LinkedIN](https://www.linkedin.com/in/angelramallobenitez)
+*Consulta mi perfil profesional en* [LinkedIN](https://www.linkedin.com/in/angelramallobenitez/)            
 
 ### Otros intereses personales
 ***Además de la arquitectura y la construcción, algunos de mis intereses son:***
