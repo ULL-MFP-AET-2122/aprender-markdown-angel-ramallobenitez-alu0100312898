@@ -29,3 +29,14 @@
                   (L. E. Aute, *"Acaso"*. ***Rito, 1973***)
 
 *Aute 'rules'* :ok_hand:
+
+***En qué me ha sorprendido el Máster de Formación del Profesorado***
+[MFPS](master.md)
+
+***Trasteando con colorines...***
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }    
+}```
