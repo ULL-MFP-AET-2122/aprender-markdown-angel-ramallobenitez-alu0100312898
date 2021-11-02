@@ -33,6 +33,8 @@
 ***En qué me ha sorprendido el Máster de Formación del Profesorado***
 [MFPS](master.md)
 
+<a title="Enlace" href="https://github.com/ULL-MFP-AET-2122/aprender-markdown-angel-ramallobenitez-alu0100312898/blob/main/master.md"><img src="escuela-doctorado-posgrado-original.png" width="300" height="150"/></a>
+
 ***Trasteando con colorines...***
 ```javascript
 function fancyAlert(arg) {
